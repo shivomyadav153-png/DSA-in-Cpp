@@ -1,3 +1,3 @@
 # DSA-in-Cpp
 My  DSA  practice in c++
-Auther- Shivom yadav
+Author- Shivom yadav
